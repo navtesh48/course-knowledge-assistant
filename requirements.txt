@@ -1,0 +1,8 @@
+openai>=1.30
+chromadb>=0.5
+psycopg[binary]>=3.1
+streamlit>=1.35
+pypdf>=4.0
+watchdog>=4.0
+python-dotenv>=1.0
+pytest>=8.0
